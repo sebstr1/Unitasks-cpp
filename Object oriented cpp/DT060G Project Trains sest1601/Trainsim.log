@@ -1,0 +1,744 @@
+[00:42] Train_NR 50 :: [Tries to assemble] @ station Dunedin
+[00:42] Train_NR 50 ::: [ASSEMBLED] :: @ station Dunedin
+[00:44] Train_NR 115 :: [Tries to assemble] @ station Hauptbahnhof
+[00:44] Train_NR 17 :: [Tries to assemble] @ station Liege-Guillemins
+[00:44] Train_NR 115 ::: [ASSEMBLED] :: @ station Hauptbahnhof
+[00:44] Train_NR 17 ::: [ASSEMBLED] :: @ station Liege-Guillemins
+[00:46] Train_NR 1 :: [Tries to assemble] @ station GrandCentral
+[00:46] Train_NR 34 :: [Tries to assemble] @ station ST.Pancras
+[00:46] Train_NR 1 ::: [ASSEMBLED] :: @ station GrandCentral
+[00:46] Train_NR 34 ::: [ASSEMBLED] :: @ station ST.Pancras
+[00:47] Train_NR 99 :: [Tries to assemble] @ station Shinjuku
+[00:47] Train_NR 99 ::: [ASSEMBLED] :: @ station Shinjuku
+[00:51] Train_NR 67 :: [Tries to assemble] @ station MilanoCentrale
+[00:51] Train_NR 67 ::: [ASSEMBLED] :: @ station MilanoCentrale
+[01:00] Train_NR 83 :: [Tries to assemble] @ station Luz
+[01:00] Train_NR 83 ::: [ASSEMBLED] :: @ station Luz
+[01:02] Train_NR 50 ::: [READY] :: @ station Dunedin
+[01:04] Train_NR 115 ::: [READY] :: @ station Hauptbahnhof
+[01:04] Train_NR 17 ::: [READY] :: @ station Liege-Guillemins
+[01:06] Train_NR 1 ::: [READY] :: @ station GrandCentral
+[01:06] Train_NR 34 ::: [READY] :: @ station ST.Pancras
+[01:07] Train_NR 99 ::: [READY] :: @ station Shinjuku
+[01:11] Train_NR 67 ::: [READY] :: @ station MilanoCentrale
+[01:12] Train_NR 50 ::: [RUNNING] :: from station Dunedin
+[01:14] Train_NR 115 ::: [RUNNING] :: from station Hauptbahnhof
+[01:14] Train_NR 17 ::: [RUNNING] :: from station Liege-Guillemins
+[01:16] Train_NR 1 ::: [RUNNING] :: from station GrandCentral
+[01:16] Train_NR 34 ::: [RUNNING] :: from station ST.Pancras
+[01:17] Train_NR 99 ::: [RUNNING] :: from station Shinjuku
+[01:20] Train_NR 83 ::: [READY] :: @ station Luz
+[01:21] Train_NR 67 ::: [RUNNING] :: from station MilanoCentrale
+[01:30] Train_NR 83 ::: [RUNNING] :: from station Luz
+[01:48] Train_NR 67 ::: [ARRIVED] :: @ station GrandCentral
+[01:54] Train_NR 18 :: [Tries to assemble] @ station Liege-Guillemins
+[01:54] Train_NR 18 ::: [ASSEMBLED] :: @ station Liege-Guillemins
+[01:55] Train_NR 116 :: [Tries to assemble] @ station Hauptbahnhof
+[01:55] Train_NR 116 ::: [ASSEMBLED] :: @ station Hauptbahnhof
+[01:57] Train_NR 51 :: [Tries to assemble] @ station Dunedin
+[01:57] Train_NR 99 ::: [ARRIVED] :: @ station GrandCentral
+[01:57] Train_NR 51 ::: [ASSEMBLED] :: @ station Dunedin
+[02:02] Train_NR 68 :: [Tries to assemble] @ station MilanoCentrale
+[02:02] Train_NR 68 ::: [ASSEMBLED] :: @ station MilanoCentrale
+[02:03] Train_NR 2 :: [Tries to assemble] @ station GrandCentral
+[02:03] Train_NR 2 ::: [ASSEMBLED] :: @ station GrandCentral
+[02:05] Train_NR 50 ::: [ARRIVED] :: @ station GrandCentral
+[02:08] Train_NR 67 ::: [FINISHED] :: @ station GrandCentral
+[02:14] Train_NR 18 ::: [READY] :: @ station Liege-Guillemins
+[02:15] Train_NR 35 :: [Tries to assemble] @ station ST.Pancras
+[02:15] Train_NR 116 ::: [READY] :: @ station Hauptbahnhof
+[02:15] Train_NR 35 ::: [ASSEMBLED] :: @ station ST.Pancras
+[02:17] Train_NR 100 :: [Tries to assemble] @ station Shinjuku
+[02:17] Train_NR 115 ::: [ARRIVED] :: @ station GrandCentral
+[02:17] Train_NR 99 ::: [FINISHED] :: @ station GrandCentral
+[02:17] Train_NR 51 ::: [READY] :: @ station Dunedin
+[02:17] Train_NR 100 ::: [ASSEMBLED] :: @ station Shinjuku
+[02:22] Train_NR 68 ::: [READY] :: @ station MilanoCentrale
+[02:23] Train_NR 2 ::: [READY] :: @ station GrandCentral
+[02:24] Train_NR 18 ::: [RUNNING] :: from station Liege-Guillemins
+[02:25] Train_NR 50 ::: [FINISHED] :: @ station GrandCentral
+[02:25] Train_NR 116 ::: [RUNNING] :: from station Hauptbahnhof
+[02:27] Train_NR 51 ::: [RUNNING] :: from station Dunedin
+[02:29] Train_NR 84 :: [Tries to assemble] @ station Luz
+[02:29] Train_NR 84 ::: [ASSEMBLED] :: @ station Luz
+[02:30] Train_NR 34 ::: [ARRIVED] :: @ station GrandCentral
+[02:32] Train_NR 68 ::: [RUNNING] :: from station MilanoCentrale
+[02:33] Train_NR 2 ::: [RUNNING] :: from station GrandCentral
+[02:35] Train_NR 35 ::: [READY] :: @ station ST.Pancras
+[02:37] Train_NR 17 ::: [ARRIVED] :: @ station GrandCentral
+[02:37] Train_NR 115 ::: [FINISHED] :: @ station GrandCentral
+[02:37] Train_NR 100 ::: [READY] :: @ station Shinjuku
+[02:45] Train_NR 35 ::: [RUNNING] :: from station ST.Pancras
+[02:46] Train_NR 1 ::: [ARRIVED] :: @ station Liege-Guillemins
+[02:47] Train_NR 100 ::: [RUNNING] :: from station Shinjuku
+[02:49] Train_NR 84 ::: [READY] :: @ station Luz
+[02:50] Train_NR 34 ::: [FINISHED] :: @ station GrandCentral
+[02:56] Train_NR 83 ::: [ARRIVED] :: @ station GrandCentral
+[02:57] Train_NR 17 ::: [FINISHED] :: @ station GrandCentral
+[02:59] Train_NR 84 ::: [RUNNING] :: from station Luz
+[03:00] Train_NR 51 ::: [ARRIVED] :: @ station Liege-Guillemins
+[03:06] Train_NR 1 ::: [FINISHED] :: @ station Liege-Guillemins
+[03:13] Train_NR 84 ::: [ARRIVED] :: @ station Liege-Guillemins
+[03:15] Train_NR 69 :: [Tries to assemble] @ station MilanoCentrale
+[03:15] Train_NR 69 ::: [ASSEMBLED] :: @ station MilanoCentrale
+[03:16] Train_NR 83 ::: [FINISHED] :: @ station GrandCentral
+[03:17] Train_NR 116 ::: [ARRIVED] :: @ station Liege-Guillemins
+[03:18] Train_NR 3 :: [Tries to assemble] @ station GrandCentral
+[03:18] Train_NR 3 ::: [ASSEMBLED] :: @ station GrandCentral
+[03:20] Train_NR 51 ::: [FINISHED] :: @ station Liege-Guillemins
+[03:20] Train_NR 52 :: [Tries to assemble] @ station Dunedin
+[03:20] Train_NR 52 ::: [ASSEMBLED] :: @ station Dunedin
+[03:26] Train_NR 19 :: [Tries to assemble] @ station Liege-Guillemins
+[03:26] Train_NR 19 ::: [ASSEMBLED] :: @ station Liege-Guillemins
+[03:27] Train_NR 101 :: [Tries to assemble] @ station Shinjuku
+[03:27] Train_NR 101 ::: [ASSEMBLED] :: @ station Shinjuku
+[03:28] Train_NR 117 :: [Tries to assemble] @ station Hauptbahnhof
+[03:28] Train_NR 117 ::: [ASSEMBLED] :: @ station Hauptbahnhof
+[03:33] Train_NR 84 ::: [FINISHED] :: @ station Liege-Guillemins
+[03:35] Train_NR 69 ::: [READY] :: @ station MilanoCentrale
+[03:36] Train_NR 36 :: [Tries to assemble] @ station ST.Pancras
+[03:36] Train_NR 18 ::: [ARRIVED] :: @ station ST.Pancras
+[03:36] Train_NR 36 ::: [ASSEMBLED] :: @ station ST.Pancras
+[03:37] Train_NR 116 ::: [FINISHED] :: @ station Liege-Guillemins
+[03:38] Train_NR 3 ::: [READY] :: @ station GrandCentral
+[03:40] Train_NR 52 ::: [READY] :: @ station Dunedin
+[03:40] Train_NR 100 ::: [ARRIVED] :: @ station Liege-Guillemins
+[03:44] Train_NR 85 :: [Tries to assemble] @ station Luz
+[03:44] Train_NR 85 ::: [ASSEMBLED] :: @ station Luz
+[03:45] Train_NR 69 ::: [RUNNING] :: from station MilanoCentrale
+[03:46] Train_NR 68 ::: [ARRIVED] :: @ station Liege-Guillemins
+[03:46] Train_NR 19 ::: [READY] :: @ station Liege-Guillemins
+[03:47] Train_NR 101 ::: [READY] :: @ station Shinjuku
+[03:48] Train_NR 3 ::: [RUNNING] :: from station GrandCentral
+[03:48] Train_NR 117 ::: [READY] :: @ station Hauptbahnhof
+[03:50] Train_NR 52 ::: [RUNNING] :: from station Dunedin
+[03:51] Train_NR 2 ::: [ARRIVED] :: @ station ST.Pancras
+[03:56] Train_NR 18 ::: [FINISHED] :: @ station ST.Pancras
+[03:56] Train_NR 36 ::: [READY] :: @ station ST.Pancras
+[03:56] Train_NR 19 ::: [RUNNING] :: from station Liege-Guillemins
+[03:57] Train_NR 101 ::: [RUNNING] :: from station Shinjuku
+[03:58] Train_NR 117 ::: [RUNNING] :: from station Hauptbahnhof
+[03:59] Train_NR 35 ::: [ARRIVED] :: @ station Liege-Guillemins
+[04:00] Train_NR 100 ::: [FINISHED] :: @ station Liege-Guillemins
+[04:04] Train_NR 85 ::: [READY] :: @ station Luz
+[04:06] Train_NR 68 ::: [FINISHED] :: @ station Liege-Guillemins
+[04:06] Train_NR 36 ::: [RUNNING] :: from station ST.Pancras
+[04:11] Train_NR 2 ::: [FINISHED] :: @ station ST.Pancras
+[04:14] Train_NR 85 ::: [RUNNING] :: from station Luz
+[04:19] Train_NR 35 ::: [FINISHED] :: @ station Liege-Guillemins
+[04:31] Train_NR 19 ::: [ARRIVED] :: @ station Dunedin
+[04:32] Train_NR 69 ::: [ARRIVED] :: @ station ST.Pancras
+[04:35] Train_NR 53 :: [Tries to assemble] @ station Dunedin
+[04:35] Train_NR 53 ::: [ASSEMBLED] :: @ station Dunedin
+[04:36] Train_NR 3 ::: [ARRIVED] :: @ station Dunedin
+[04:36] Train_NR 20 :: [Tries to assemble] @ station Liege-Guillemins
+[04:36] Train_NR 20 ::: [ASSEMBLED] :: @ station Liege-Guillemins
+[04:44] Train_NR 118 :: [Tries to assemble] @ station Hauptbahnhof
+[04:44] Train_NR 118 ::: [ASSEMBLED] :: @ station Hauptbahnhof
+[04:47] Train_NR 70 :: [Tries to assemble] @ station MilanoCentrale
+[04:47] Train_NR 70 ::: [ASSEMBLED] :: @ station MilanoCentrale
+[04:50] Train_NR 37 :: [Tries to assemble] @ station ST.Pancras
+[04:50] Train_NR 37 ::: [ASSEMBLED] :: @ station ST.Pancras
+[04:51] Train_NR 19 ::: [FINISHED] :: @ station Dunedin
+[04:51] Train_NR 4 :: [Tries to assemble] @ station GrandCentral
+[04:51] Train_NR 4 ::: [ASSEMBLED] :: @ station GrandCentral
+[04:52] Train_NR 69 ::: [FINISHED] :: @ station ST.Pancras
+[04:53] Train_NR 52 ::: [ARRIVED] :: @ station ST.Pancras
+[04:55] Train_NR 53 ::: [READY] :: @ station Dunedin
+[04:56] Train_NR 3 ::: [FINISHED] :: @ station Dunedin
+[04:56] Train_NR 20 ::: [READY] :: @ station Liege-Guillemins
+[05:01] Train_NR 102 :: [Tries to assemble] @ station Shinjuku
+[05:01] Train_NR 102 ::: [ASSEMBLED] :: @ station Shinjuku
+[05:04] Train_NR 118 ::: [READY] :: @ station Hauptbahnhof
+[05:05] Train_NR 53 ::: [RUNNING] :: from station Dunedin
+[05:06] Train_NR 20 ::: [RUNNING] :: from station Liege-Guillemins
+[05:07] Train_NR 70 ::: [READY] :: @ station MilanoCentrale
+[05:08] Train_NR 101 ::: [ARRIVED] :: @ station ST.Pancras
+[05:10] Train_NR 37 ::: [READY] :: @ station ST.Pancras
+[05:11] Train_NR 4 ::: [READY] :: @ station GrandCentral
+[05:13] Train_NR 52 ::: [FINISHED] :: @ station ST.Pancras
+[05:14] Train_NR 118 ::: [RUNNING] :: from station Hauptbahnhof
+[05:15] Train_NR 36 ::: [ARRIVED] :: @ station Dunedin
+[05:17] Train_NR 70 ::: [RUNNING] :: from station MilanoCentrale
+[05:17] Train_NR 86 :: [Tries to assemble] @ station Luz
+[05:17] Train_NR 86 ::: [ASSEMBLED] :: @ station Luz
+[05:20] Train_NR 37 ::: [RUNNING] :: from station ST.Pancras
+[05:21] Train_NR 102 ::: [READY] :: @ station Shinjuku
+[05:21] Train_NR 4 ::: [RUNNING] :: from station GrandCentral
+[05:28] Train_NR 101 ::: [FINISHED] :: @ station ST.Pancras
+[05:31] Train_NR 102 ::: [RUNNING] :: from station Shinjuku
+[05:35] Train_NR 36 ::: [FINISHED] :: @ station Dunedin
+[05:37] Train_NR 86 ::: [READY] :: @ station Luz
+[05:39] Train_NR 85 ::: [ARRIVED] :: @ station ST.Pancras
+[05:40] Train_NR 117 ::: [ARRIVED] :: @ station ST.Pancras
+[05:44] Train_NR 53 ::: [ARRIVED] :: @ station MilanoCentrale
+[05:45] Train_NR 102 ::: [ARRIVED] :: @ station Dunedin
+[05:46] Train_NR 4 ::: [ARRIVED] :: @ station MilanoCentrale
+[05:47] Train_NR 86 ::: [RUNNING] :: from station Luz
+[05:49] Train_NR 118 ::: [ARRIVED] :: @ station Dunedin
+[05:55] Train_NR 70 ::: [ARRIVED] :: @ station Dunedin
+[05:59] Train_NR 85 ::: [FINISHED] :: @ station ST.Pancras
+[06:00] Train_NR 117 ::: [FINISHED] :: @ station ST.Pancras
+[06:00] Train_NR 54 :: [Tries to assemble] @ station Dunedin
+[06:00] Train_NR 54 ::: [ASSEMBLED] :: @ station Dunedin
+[06:04] Train_NR 53 ::: [FINISHED] :: @ station MilanoCentrale
+[06:05] Train_NR 102 ::: [FINISHED] :: @ station Dunedin
+[06:06] Train_NR 4 ::: [FINISHED] :: @ station MilanoCentrale
+[06:08] Train_NR 21 :: [Tries to assemble] @ station Liege-Guillemins
+[06:08] Train_NR 21 ::: [ASSEMBLED] :: @ station Liege-Guillemins
+[06:09] Train_NR 118 ::: [FINISHED] :: @ station Dunedin
+[06:09] Train_NR 119 :: [Tries to assemble] @ station Hauptbahnhof
+[06:09] Train_NR 119 ::: [ASSEMBLED] :: @ station Hauptbahnhof
+[06:11] Train_NR 37 ::: [ARRIVED] :: @ station MilanoCentrale
+[06:12] Train_NR 38 :: [Tries to assemble] @ station ST.Pancras
+[06:12] Train_NR 38 ::: [ASSEMBLED] :: @ station ST.Pancras
+[06:15] Train_NR 70 ::: [FINISHED] :: @ station Dunedin
+[06:15] Train_NR 71 :: [Tries to assemble] @ station MilanoCentrale
+[06:15] Train_NR 71 ::: [ASSEMBLED] :: @ station MilanoCentrale
+[06:16] Train_NR 86 ::: [ARRIVED] :: @ station Dunedin
+[06:17] Train_NR 20 ::: [ARRIVED] :: @ station MilanoCentrale
+[06:20] Train_NR 54 ::: [READY] :: @ station Dunedin
+[06:20] Train_NR 5 :: [Tries to assemble] @ station GrandCentral
+[06:20] Train_NR 5 ::: [ASSEMBLED] :: @ station GrandCentral
+[06:28] Train_NR 21 ::: [READY] :: @ station Liege-Guillemins
+[06:29] Train_NR 119 ::: [READY] :: @ station Hauptbahnhof
+[06:30] Train_NR 103 :: [Tries to assemble] @ station Shinjuku
+[06:30] Train_NR 54 ::: [RUNNING] :: from station Dunedin
+[06:30] Train_NR 103 ::: [ASSEMBLED] :: @ station Shinjuku
+[06:31] Train_NR 37 ::: [FINISHED] :: @ station MilanoCentrale
+[06:32] Train_NR 38 ::: [READY] :: @ station ST.Pancras
+[06:35] Train_NR 71 ::: [READY] :: @ station MilanoCentrale
+[06:36] Train_NR 86 ::: [FINISHED] :: @ station Dunedin
+[06:37] Train_NR 20 ::: [FINISHED] :: @ station MilanoCentrale
+[06:38] Train_NR 21 ::: [RUNNING] :: from station Liege-Guillemins
+[06:39] Train_NR 119 ::: [RUNNING] :: from station Hauptbahnhof
+[06:40] Train_NR 5 ::: [READY] :: @ station GrandCentral
+[06:42] Train_NR 38 ::: [RUNNING] :: from station ST.Pancras
+[06:45] Train_NR 71 ::: [RUNNING] :: from station MilanoCentrale
+[06:50] Train_NR 103 ::: [READY] :: @ station Shinjuku
+[06:50] Train_NR 5 ::: [RUNNING] :: from station GrandCentral
+[06:51] Train_NR 21 ::: [ARRIVED] :: @ station Luz
+[06:51] Train_NR 87 :: [Tries to assemble] @ station Luz
+[06:51] Train_NR 87 ::: [INCOMPLETE] @ station Luz
+[06:58] Train_NR 54 ::: [ARRIVED] :: @ station Luz
+[07:00] Train_NR 103 ::: [RUNNING] :: from station Shinjuku
+[07:11] Train_NR 21 ::: [FINISHED] :: @ station Luz
+[07:18] Train_NR 54 ::: [FINISHED] :: @ station Luz
+[07:18] Train_NR 22 :: [Tries to assemble] @ station Liege-Guillemins
+[07:18] Train_NR 22 ::: [ASSEMBLED] :: @ station Liege-Guillemins
+[07:26] Train_NR 39 :: [Tries to assemble] @ station ST.Pancras
+[07:26] Train_NR 120 :: [Tries to assemble] @ station Hauptbahnhof
+[07:26] Train_NR 39 ::: [ASSEMBLED] :: @ station ST.Pancras
+[07:26] Train_NR 120 ::: [ASSEMBLED] :: @ station Hauptbahnhof
+[07:28] Train_NR 55 :: [Tries to assemble] @ station Dunedin
+[07:28] Train_NR 55 ::: [ASSEMBLED] :: @ station Dunedin
+[07:37] Train_NR 103 ::: [ARRIVED] :: @ station MilanoCentrale
+[07:37] Train_NR 6 :: [Tries to assemble] @ station GrandCentral
+[07:37] Train_NR 6 ::: [ASSEMBLED] :: @ station GrandCentral
+[07:38] Train_NR 22 ::: [READY] :: @ station Liege-Guillemins
+[07:42] Train_NR 72 :: [Tries to assemble] @ station MilanoCentrale
+[07:42] Train_NR 72 ::: [ASSEMBLED] :: @ station MilanoCentrale
+[07:46] Train_NR 39 ::: [READY] :: @ station ST.Pancras
+[07:46] Train_NR 120 ::: [READY] :: @ station Hauptbahnhof
+[07:48] Train_NR 55 ::: [READY] :: @ station Dunedin
+[07:48] Train_NR 22 ::: [RUNNING] :: from station Liege-Guillemins
+[07:49] Train_NR 119 ::: [ARRIVED] :: @ station MilanoCentrale
+[07:56] Train_NR 39 ::: [RUNNING] :: from station ST.Pancras
+[07:56] Train_NR 120 ::: [RUNNING] :: from station Hauptbahnhof
+[07:57] Train_NR 104 :: [Tries to assemble] @ station Shinjuku
+[07:57] Train_NR 71 ::: [ARRIVED] :: @ station Luz
+[07:57] Train_NR 103 ::: [FINISHED] :: @ station MilanoCentrale
+[07:57] Train_NR 6 ::: [READY] :: @ station GrandCentral
+[07:57] Train_NR 104 ::: [ASSEMBLED] :: @ station Shinjuku
+[07:58] Train_NR 55 ::: [RUNNING] :: from station Dunedin
+[08:02] Train_NR 72 ::: [READY] :: @ station MilanoCentrale
+[08:06] Train_NR 5 ::: [ARRIVED] :: @ station Luz
+[08:07] Train_NR 6 ::: [RUNNING] :: from station GrandCentral
+[08:09] Train_NR 38 ::: [ARRIVED] :: @ station Luz
+[08:09] Train_NR 119 ::: [FINISHED] :: @ station MilanoCentrale
+[08:09] Train_NR 88 :: [Tries to assemble] @ station Luz
+[08:09] Train_NR 88 ::: [ASSEMBLED] :: @ station Luz
+[08:12] Train_NR 55 ::: [ARRIVED] :: @ station Shinjuku
+[08:12] Train_NR 72 ::: [RUNNING] :: from station MilanoCentrale
+[08:17] Train_NR 71 ::: [FINISHED] :: @ station Luz
+[08:17] Train_NR 104 ::: [READY] :: @ station Shinjuku
+[08:26] Train_NR 5 ::: [FINISHED] :: @ station Luz
+[08:27] Train_NR 104 ::: [RUNNING] :: from station Shinjuku
+[08:29] Train_NR 38 ::: [FINISHED] :: @ station Luz
+[08:29] Train_NR 88 ::: [READY] :: @ station Luz
+[08:32] Train_NR 120 ::: [ARRIVED] :: @ station Luz
+[08:32] Train_NR 55 ::: [FINISHED] :: @ station Shinjuku
+[08:34] Train_NR 22 ::: [ARRIVED] :: @ station Shinjuku
+[08:39] Train_NR 88 ::: [RUNNING] :: from station Luz
+[08:41] Train_NR 121 :: [Tries to assemble] @ station Hauptbahnhof
+[08:41] Train_NR 121 ::: [INCOMPLETE] @ station Hauptbahnhof
+[08:42] Train_NR 23 :: [Tries to assemble] @ station Liege-Guillemins
+[08:42] Train_NR 23 ::: [ASSEMBLED] :: @ station Liege-Guillemins
+[08:49] Train_NR 72 ::: [ARRIVED] :: @ station Shinjuku
+[08:50] Train_NR 6 ::: [ARRIVED] :: @ station Shinjuku
+[08:52] Train_NR 120 ::: [FINISHED] :: @ station Luz
+[08:53] Train_NR 56 :: [Tries to assemble] @ station Dunedin
+[08:53] Train_NR 56 ::: [ASSEMBLED] :: @ station Dunedin
+[08:54] Train_NR 22 ::: [FINISHED] :: @ station Shinjuku
+[08:57] Train_NR 40 :: [Tries to assemble] @ station ST.Pancras
+[08:57] Train_NR 40 ::: [ASSEMBLED] :: @ station ST.Pancras
+[09:00] Train_NR 7 :: [Tries to assemble] @ station GrandCentral
+[09:00] Train_NR 7 ::: [ASSEMBLED] :: @ station GrandCentral
+[09:02] Train_NR 23 ::: [READY] :: @ station Liege-Guillemins
+[09:05] Train_NR 104 ::: [ARRIVED] :: @ station Luz
+[09:09] Train_NR 72 ::: [FINISHED] :: @ station Shinjuku
+[09:10] Train_NR 6 ::: [FINISHED] :: @ station Shinjuku
+[09:12] Train_NR 23 ::: [RUNNING] :: from station Liege-Guillemins
+[09:13] Train_NR 56 ::: [READY] :: @ station Dunedin
+[09:14] Train_NR 73 :: [Tries to assemble] @ station MilanoCentrale
+[09:14] Train_NR 73 ::: [ASSEMBLED] :: @ station MilanoCentrale
+[09:16] Train_NR 39 ::: [ARRIVED] :: @ station Shinjuku
+[09:17] Train_NR 40 ::: [READY] :: @ station ST.Pancras
+[09:20] Train_NR 7 ::: [READY] :: @ station GrandCentral
+[09:22] Train_NR 88 ::: [ARRIVED] :: @ station Shinjuku
+[09:23] Train_NR 56 ::: [RUNNING] :: from station Dunedin
+[09:25] Train_NR 104 ::: [FINISHED] :: @ station Luz
+[09:27] Train_NR 40 ::: [RUNNING] :: from station ST.Pancras
+[09:30] Train_NR 105 :: [Tries to assemble] @ station Shinjuku
+[09:30] Train_NR 7 ::: [RUNNING] :: from station GrandCentral
+[09:30] Train_NR 105 ::: [ASSEMBLED] :: @ station Shinjuku
+[09:34] Train_NR 89 :: [Tries to assemble] @ station Luz
+[09:34] Train_NR 73 ::: [READY] :: @ station MilanoCentrale
+[09:34] Train_NR 89 ::: [ASSEMBLED] :: @ station Luz
+[09:36] Train_NR 39 ::: [FINISHED] :: @ station Shinjuku
+[09:42] Train_NR 88 ::: [FINISHED] :: @ station Shinjuku
+[09:44] Train_NR 73 ::: [RUNNING] :: from station MilanoCentrale
+[09:50] Train_NR 105 ::: [READY] :: @ station Shinjuku
+[09:54] Train_NR 89 ::: [READY] :: @ station Luz
+[10:00] Train_NR 105 ::: [RUNNING] :: from station Shinjuku
+[10:02] Train_NR 23 ::: [ARRIVED] :: @ station Hauptbahnhof
+[10:03] Train_NR 56 ::: [ARRIVED] :: @ station Hauptbahnhof
+[10:03] Train_NR 24 :: [Tries to assemble] @ station Liege-Guillemins
+[10:03] Train_NR 24 ::: [ASSEMBLED] :: @ station Liege-Guillemins
+[10:04] Train_NR 89 ::: [RUNNING] :: from station Luz
+[10:13] Train_NR 122 :: [Tries to assemble] @ station Hauptbahnhof
+[10:13] Train_NR 57 :: [Tries to assemble] @ station Dunedin
+[10:13] Train_NR 122 ::: [ASSEMBLED] :: @ station Hauptbahnhof
+[10:13] Train_NR 57 ::: [ASSEMBLED] :: @ station Dunedin
+[10:22] Train_NR 23 ::: [FINISHED] :: @ station Hauptbahnhof
+[10:23] Train_NR 56 ::: [FINISHED] :: @ station Hauptbahnhof
+[10:23] Train_NR 24 ::: [READY] :: @ station Liege-Guillemins
+[10:28] Train_NR 8 :: [Tries to assemble] @ station GrandCentral
+[10:28] Train_NR 8 ::: [ASSEMBLED] :: @ station GrandCentral
+[10:31] Train_NR 41 :: [Tries to assemble] @ station ST.Pancras
+[10:31] Train_NR 41 ::: [ASSEMBLED] :: @ station ST.Pancras
+[10:32] Train_NR 105 ::: [ARRIVED] :: @ station Hauptbahnhof
+[10:33] Train_NR 57 ::: [READY] :: @ station Dunedin
+[10:33] Train_NR 122 ::: [READY] :: @ station Hauptbahnhof
+[10:33] Train_NR 24 ::: [RUNNING] :: from station Liege-Guillemins
+[10:34] Train_NR 7 ::: [ARRIVED] :: @ station Hauptbahnhof
+[10:43] Train_NR 89 ::: [ARRIVED] :: @ station Hauptbahnhof
+[10:43] Train_NR 74 :: [Tries to assemble] @ station MilanoCentrale
+[10:43] Train_NR 57 ::: [RUNNING] :: from station Dunedin
+[10:43] Train_NR 122 ::: [RUNNING] :: from station Hauptbahnhof
+[10:43] Train_NR 74 ::: [ASSEMBLED] :: @ station MilanoCentrale
+[10:48] Train_NR 8 ::: [READY] :: @ station GrandCentral
+[10:51] Train_NR 41 ::: [READY] :: @ station ST.Pancras
+[10:52] Train_NR 105 ::: [FINISHED] :: @ station Hauptbahnhof
+[10:54] Train_NR 7 ::: [FINISHED] :: @ station Hauptbahnhof
+[10:56] Train_NR 90 :: [Tries to assemble] @ station Luz
+[10:56] Train_NR 90 ::: [ASSEMBLED] :: @ station Luz
+[10:57] Train_NR 106 :: [Tries to assemble] @ station Shinjuku
+[10:57] Train_NR 106 ::: [ASSEMBLED] :: @ station Shinjuku
+[10:58] Train_NR 8 ::: [RUNNING] :: from station GrandCentral
+[11:00] Train_NR 73 ::: [ARRIVED] :: @ station Hauptbahnhof
+[11:01] Train_NR 41 ::: [RUNNING] :: from station ST.Pancras
+[11:03] Train_NR 89 ::: [FINISHED] :: @ station Hauptbahnhof
+[11:03] Train_NR 74 ::: [READY] :: @ station MilanoCentrale
+[11:10] Train_NR 40 ::: [ARRIVED] :: @ station Hauptbahnhof
+[11:13] Train_NR 74 ::: [RUNNING] :: from station MilanoCentrale
+[11:16] Train_NR 90 ::: [READY] :: @ station Luz
+[11:17] Train_NR 106 ::: [READY] :: @ station Shinjuku
+[11:19] Train_NR 25 :: [Tries to assemble] @ station Liege-Guillemins
+[11:19] Train_NR 25 ::: [ASSEMBLED] :: @ station Liege-Guillemins
+[11:20] Train_NR 73 ::: [FINISHED] :: @ station Hauptbahnhof
+[11:26] Train_NR 90 ::: [RUNNING] :: from station Luz
+[11:27] Train_NR 106 ::: [RUNNING] :: from station Shinjuku
+[11:30] Train_NR 40 ::: [FINISHED] :: @ station Hauptbahnhof
+[11:35] Train_NR 57 ::: [ARRIVED] :: @ station GrandCentral
+[11:36] Train_NR 123 :: [Tries to assemble] @ station Hauptbahnhof
+[11:36] Train_NR 123 ::: [ASSEMBLED] :: @ station Hauptbahnhof
+[11:39] Train_NR 74 ::: [ARRIVED] :: @ station GrandCentral
+[11:39] Train_NR 25 ::: [READY] :: @ station Liege-Guillemins
+[11:43] Train_NR 58 :: [Tries to assemble] @ station Dunedin
+[11:43] Train_NR 58 ::: [ASSEMBLED] :: @ station Dunedin
+[11:49] Train_NR 122 ::: [ARRIVED] :: @ station GrandCentral
+[11:49] Train_NR 9 :: [Tries to assemble] @ station GrandCentral
+[11:49] Train_NR 25 ::: [RUNNING] :: from station Liege-Guillemins
+[11:49] Train_NR 9 ::: [ASSEMBLED] :: @ station GrandCentral
+[11:55] Train_NR 57 ::: [FINISHED] :: @ station GrandCentral
+[11:56] Train_NR 123 ::: [READY] :: @ station Hauptbahnhof
+[11:59] Train_NR 74 ::: [FINISHED] :: @ station GrandCentral
+[11:59] Train_NR 75 :: [Tries to assemble] @ station MilanoCentrale
+[11:59] Train_NR 75 ::: [ASSEMBLED] :: @ station MilanoCentrale
+[12:03] Train_NR 58 ::: [READY] :: @ station Dunedin
+[12:04] Train_NR 42 :: [Tries to assemble] @ station ST.Pancras
+[12:04] Train_NR 42 ::: [ASSEMBLED] :: @ station ST.Pancras
+[12:06] Train_NR 24 ::: [ARRIVED] :: @ station GrandCentral
+[12:06] Train_NR 123 ::: [RUNNING] :: from station Hauptbahnhof
+[12:09] Train_NR 122 ::: [FINISHED] :: @ station GrandCentral
+[12:09] Train_NR 9 ::: [READY] :: @ station GrandCentral
+[12:11] Train_NR 106 ::: [ARRIVED] :: @ station GrandCentral
+[12:13] Train_NR 107 :: [Tries to assemble] @ station Shinjuku
+[12:13] Train_NR 58 ::: [RUNNING] :: from station Dunedin
+[12:13] Train_NR 107 ::: [ASSEMBLED] :: @ station Shinjuku
+[12:18] Train_NR 91 :: [Tries to assemble] @ station Luz
+[12:18] Train_NR 91 ::: [INCOMPLETE] @ station Luz
+[12:19] Train_NR 75 ::: [READY] :: @ station MilanoCentrale
+[12:19] Train_NR 9 ::: [RUNNING] :: from station GrandCentral
+[12:21] Train_NR 41 ::: [ARRIVED] :: @ station GrandCentral
+[12:24] Train_NR 42 ::: [READY] :: @ station ST.Pancras
+[12:26] Train_NR 24 ::: [FINISHED] :: @ station GrandCentral
+[12:29] Train_NR 75 ::: [RUNNING] :: from station MilanoCentrale
+[12:31] Train_NR 106 ::: [FINISHED] :: @ station GrandCentral
+[12:33] Train_NR 8 ::: [ARRIVED] :: @ station Liege-Guillemins
+[12:33] Train_NR 107 ::: [READY] :: @ station Shinjuku
+[12:34] Train_NR 42 ::: [RUNNING] :: from station ST.Pancras
+[12:40] Train_NR 26 :: [Tries to assemble] @ station Liege-Guillemins
+[12:40] Train_NR 26 ::: [ASSEMBLED] :: @ station Liege-Guillemins
+[12:41] Train_NR 41 ::: [FINISHED] :: @ station GrandCentral
+[12:42] Train_NR 90 ::: [ARRIVED] :: @ station GrandCentral
+[12:43] Train_NR 107 ::: [RUNNING] :: from station Shinjuku
+[12:45] Train_NR 58 ::: [ARRIVED] :: @ station Liege-Guillemins
+[12:48] Train_NR 124 :: [Tries to assemble] @ station Hauptbahnhof
+[12:48] Train_NR 124 ::: [ASSEMBLED] :: @ station Hauptbahnhof
+[12:53] Train_NR 8 ::: [FINISHED] :: @ station Liege-Guillemins
+[12:54] Train_NR 123 ::: [ARRIVED] :: @ station Liege-Guillemins
+[13:00] Train_NR 26 ::: [READY] :: @ station Liege-Guillemins
+[13:02] Train_NR 25 ::: [ARRIVED] :: @ station ST.Pancras
+[13:02] Train_NR 90 ::: [FINISHED] :: @ station GrandCentral
+[13:05] Train_NR 58 ::: [FINISHED] :: @ station Liege-Guillemins
+[13:08] Train_NR 124 ::: [READY] :: @ station Hauptbahnhof
+[13:09] Train_NR 59 :: [Tries to assemble] @ station Dunedin
+[13:09] Train_NR 59 ::: [ASSEMBLED] :: @ station Dunedin
+[13:10] Train_NR 26 ::: [RUNNING] :: from station Liege-Guillemins
+[13:14] Train_NR 123 ::: [FINISHED] :: @ station Liege-Guillemins
+[13:15] Train_NR 10 :: [Tries to assemble] @ station GrandCentral
+[13:15] Train_NR 10 ::: [ASSEMBLED] :: @ station GrandCentral
+[13:16] Train_NR 43 :: [Tries to assemble] @ station ST.Pancras
+[13:16] Train_NR 43 ::: [ASSEMBLED] :: @ station ST.Pancras
+[13:18] Train_NR 124 ::: [RUNNING] :: from station Hauptbahnhof
+[13:20] Train_NR 76 :: [Tries to assemble] @ station MilanoCentrale
+[13:20] Train_NR 76 ::: [ASSEMBLED] :: @ station MilanoCentrale
+[13:22] Train_NR 25 ::: [FINISHED] :: @ station ST.Pancras
+[13:29] Train_NR 59 ::: [READY] :: @ station Dunedin
+[13:32] Train_NR 108 :: [Tries to assemble] @ station Shinjuku
+[13:32] Train_NR 108 ::: [ASSEMBLED] :: @ station Shinjuku
+[13:34] Train_NR 107 ::: [ARRIVED] :: @ station Liege-Guillemins
+[13:35] Train_NR 10 ::: [READY] :: @ station GrandCentral
+[13:36] Train_NR 43 ::: [READY] :: @ station ST.Pancras
+[13:38] Train_NR 9 ::: [ARRIVED] :: @ station ST.Pancras
+[13:39] Train_NR 59 ::: [RUNNING] :: from station Dunedin
+[13:40] Train_NR 76 ::: [READY] :: @ station MilanoCentrale
+[13:43] Train_NR 75 ::: [ARRIVED] :: @ station Liege-Guillemins
+[13:45] Train_NR 10 ::: [RUNNING] :: from station GrandCentral
+[13:46] Train_NR 43 ::: [RUNNING] :: from station ST.Pancras
+[13:46] Train_NR 26 ::: [ARRIVED] :: @ station Dunedin
+[13:50] Train_NR 76 ::: [RUNNING] :: from station MilanoCentrale
+[13:51] Train_NR 92 :: [Tries to assemble] @ station Luz
+[13:51] Train_NR 42 ::: [ARRIVED] :: @ station Liege-Guillemins
+[13:51] Train_NR 92 ::: [ASSEMBLED] :: @ station Luz
+[13:52] Train_NR 108 ::: [READY] :: @ station Shinjuku
+[13:54] Train_NR 107 ::: [FINISHED] :: @ station Liege-Guillemins
+[13:58] Train_NR 9 ::: [FINISHED] :: @ station ST.Pancras
+[14:02] Train_NR 108 ::: [RUNNING] :: from station Shinjuku
+[14:02] Train_NR 125 :: [Tries to assemble] @ station Hauptbahnhof
+[14:02] Train_NR 125 ::: [ASSEMBLED] :: @ station Hauptbahnhof
+[14:03] Train_NR 75 ::: [FINISHED] :: @ station Liege-Guillemins
+[14:04] Train_NR 27 :: [Tries to assemble] @ station Liege-Guillemins
+[14:04] Train_NR 27 ::: [ASSEMBLED] :: @ station Liege-Guillemins
+[14:06] Train_NR 26 ::: [FINISHED] :: @ station Dunedin
+[14:11] Train_NR 42 ::: [FINISHED] :: @ station Liege-Guillemins
+[14:11] Train_NR 92 ::: [READY] :: @ station Luz
+[14:21] Train_NR 92 ::: [RUNNING] :: from station Luz
+[14:22] Train_NR 125 ::: [READY] :: @ station Hauptbahnhof
+[14:24] Train_NR 27 ::: [READY] :: @ station Liege-Guillemins
+[14:27] Train_NR 44 :: [Tries to assemble] @ station ST.Pancras
+[14:27] Train_NR 44 ::: [ASSEMBLED] :: @ station ST.Pancras
+[14:30] Train_NR 60 :: [Tries to assemble] @ station Dunedin
+[14:30] Train_NR 11 :: [Tries to assemble] @ station GrandCentral
+[14:30] Train_NR 60 ::: [ASSEMBLED] :: @ station Dunedin
+[14:30] Train_NR 11 ::: [ASSEMBLED] :: @ station GrandCentral
+[14:32] Train_NR 125 ::: [RUNNING] :: from station Hauptbahnhof
+[14:32] Train_NR 10 ::: [ARRIVED] :: @ station Dunedin
+[14:34] Train_NR 27 ::: [RUNNING] :: from station Liege-Guillemins
+[14:37] Train_NR 76 ::: [ARRIVED] :: @ station ST.Pancras
+[14:46] Train_NR 59 ::: [ARRIVED] :: @ station ST.Pancras
+[14:47] Train_NR 44 ::: [READY] :: @ station ST.Pancras
+[14:50] Train_NR 60 ::: [READY] :: @ station Dunedin
+[14:50] Train_NR 11 ::: [READY] :: @ station GrandCentral
+[14:51] Train_NR 43 ::: [ARRIVED] :: @ station Dunedin
+[14:52] Train_NR 10 ::: [FINISHED] :: @ station Dunedin
+[14:53] Train_NR 109 :: [Tries to assemble] @ station Shinjuku
+[14:53] Train_NR 77 :: [Tries to assemble] @ station MilanoCentrale
+[14:53] Train_NR 109 ::: [ASSEMBLED] :: @ station Shinjuku
+[14:53] Train_NR 77 ::: [ASSEMBLED] :: @ station MilanoCentrale
+[14:55] Train_NR 124 ::: [ARRIVED] :: @ station ST.Pancras
+[14:57] Train_NR 76 ::: [FINISHED] :: @ station ST.Pancras
+[14:57] Train_NR 44 ::: [RUNNING] :: from station ST.Pancras
+[15:00] Train_NR 60 ::: [RUNNING] :: from station Dunedin
+[15:00] Train_NR 11 ::: [RUNNING] :: from station GrandCentral
+[15:06] Train_NR 59 ::: [FINISHED] :: @ station ST.Pancras
+[15:07] Train_NR 125 ::: [ARRIVED] :: @ station Dunedin
+[15:11] Train_NR 43 ::: [FINISHED] :: @ station Dunedin
+[15:12] Train_NR 108 ::: [ARRIVED] :: @ station ST.Pancras
+[15:13] Train_NR 109 ::: [READY] :: @ station Shinjuku
+[15:13] Train_NR 77 ::: [READY] :: @ station MilanoCentrale
+[15:15] Train_NR 124 ::: [FINISHED] :: @ station ST.Pancras
+[15:15] Train_NR 93 :: [Tries to assemble] @ station Luz
+[15:15] Train_NR 93 ::: [ASSEMBLED] :: @ station Luz
+[15:23] Train_NR 109 ::: [RUNNING] :: from station Shinjuku
+[15:23] Train_NR 77 ::: [RUNNING] :: from station MilanoCentrale
+[15:27] Train_NR 125 ::: [FINISHED] :: @ station Dunedin
+[15:28] Train_NR 11 ::: [ARRIVED] :: @ station MilanoCentrale
+[15:28] Train_NR 126 :: [Tries to assemble] @ station Hauptbahnhof
+[15:28] Train_NR 126 ::: [ASSEMBLED] :: @ station Hauptbahnhof
+[15:32] Train_NR 28 :: [Tries to assemble] @ station Liege-Guillemins
+[15:32] Train_NR 108 ::: [FINISHED] :: @ station ST.Pancras
+[15:32] Train_NR 28 ::: [ASSEMBLED] :: @ station Liege-Guillemins
+[15:35] Train_NR 93 ::: [READY] :: @ station Luz
+[15:36] Train_NR 109 ::: [ARRIVED] :: @ station Dunedin
+[15:40] Train_NR 60 ::: [ARRIVED] :: @ station MilanoCentrale
+[15:43] Train_NR 92 ::: [ARRIVED] :: @ station ST.Pancras
+[15:45] Train_NR 93 ::: [RUNNING] :: from station Luz
+[15:45] Train_NR 61 :: [Tries to assemble] @ station Dunedin
+[15:45] Train_NR 61 ::: [ASSEMBLED] :: @ station Dunedin
+[15:46] Train_NR 27 ::: [ARRIVED] :: @ station MilanoCentrale
+[15:47] Train_NR 44 ::: [ARRIVED] :: @ station MilanoCentrale
+[15:48] Train_NR 11 ::: [FINISHED] :: @ station MilanoCentrale
+[15:48] Train_NR 126 ::: [READY] :: @ station Hauptbahnhof
+[15:52] Train_NR 28 ::: [READY] :: @ station Liege-Guillemins
+[15:56] Train_NR 109 ::: [FINISHED] :: @ station Dunedin
+[15:57] Train_NR 45 :: [Tries to assemble] @ station ST.Pancras
+[15:57] Train_NR 45 ::: [ASSEMBLED] :: @ station ST.Pancras
+[15:58] Train_NR 126 ::: [RUNNING] :: from station Hauptbahnhof
+[15:59] Train_NR 12 :: [Tries to assemble] @ station GrandCentral
+[15:59] Train_NR 12 ::: [ASSEMBLED] :: @ station GrandCentral
+[16:00] Train_NR 60 ::: [FINISHED] :: @ station MilanoCentrale
+[16:01] Train_NR 77 ::: [ARRIVED] :: @ station Dunedin
+[16:02] Train_NR 28 ::: [RUNNING] :: from station Liege-Guillemins
+[16:03] Train_NR 92 ::: [FINISHED] :: @ station ST.Pancras
+[16:05] Train_NR 61 ::: [READY] :: @ station Dunedin
+[16:06] Train_NR 27 ::: [FINISHED] :: @ station MilanoCentrale
+[16:07] Train_NR 44 ::: [FINISHED] :: @ station MilanoCentrale
+[16:09] Train_NR 78 :: [Tries to assemble] @ station MilanoCentrale
+[16:09] Train_NR 78 ::: [ASSEMBLED] :: @ station MilanoCentrale
+[16:15] Train_NR 28 ::: [ARRIVED] :: @ station Luz
+[16:15] Train_NR 61 ::: [RUNNING] :: from station Dunedin
+[16:16] Train_NR 93 ::: [ARRIVED] :: @ station Dunedin
+[16:17] Train_NR 45 ::: [READY] :: @ station ST.Pancras
+[16:19] Train_NR 12 ::: [READY] :: @ station GrandCentral
+[16:21] Train_NR 77 ::: [FINISHED] :: @ station Dunedin
+[16:22] Train_NR 110 :: [Tries to assemble] @ station Shinjuku
+[16:22] Train_NR 110 ::: [ASSEMBLED] :: @ station Shinjuku
+[16:27] Train_NR 45 ::: [RUNNING] :: from station ST.Pancras
+[16:29] Train_NR 78 ::: [READY] :: @ station MilanoCentrale
+[16:29] Train_NR 12 ::: [RUNNING] :: from station GrandCentral
+[16:33] Train_NR 94 :: [Tries to assemble] @ station Luz
+[16:33] Train_NR 94 ::: [INCOMPLETE] @ station Luz
+[16:35] Train_NR 28 ::: [FINISHED] :: @ station Luz
+[16:36] Train_NR 93 ::: [FINISHED] :: @ station Dunedin
+[16:39] Train_NR 78 ::: [RUNNING] :: from station MilanoCentrale
+[16:42] Train_NR 110 ::: [READY] :: @ station Shinjuku
+[16:43] Train_NR 61 ::: [ARRIVED] :: @ station Luz
+[16:46] Train_NR 127 :: [Tries to assemble] @ station Hauptbahnhof
+[16:46] Train_NR 127 ::: [INCOMPLETE] @ station Hauptbahnhof
+[16:52] Train_NR 110 ::: [RUNNING] :: from station Shinjuku
+[17:03] Train_NR 29 :: [Tries to assemble] @ station Liege-Guillemins
+[17:03] Train_NR 61 ::: [FINISHED] :: @ station Luz
+[17:03] Train_NR 29 ::: [ASSEMBLED] :: @ station Liege-Guillemins
+[17:08] Train_NR 46 :: [Tries to assemble] @ station ST.Pancras
+[17:08] Train_NR 46 ::: [ASSEMBLED] :: @ station ST.Pancras
+[17:11] Train_NR 13 :: [Tries to assemble] @ station GrandCentral
+[17:11] Train_NR 13 ::: [ASSEMBLED] :: @ station GrandCentral
+[17:12] Train_NR 126 ::: [ARRIVED] :: @ station MilanoCentrale
+[17:19] Train_NR 62 :: [Tries to assemble] @ station Dunedin
+[17:19] Train_NR 62 ::: [ASSEMBLED] :: @ station Dunedin
+[17:23] Train_NR 29 ::: [READY] :: @ station Liege-Guillemins
+[17:28] Train_NR 46 ::: [READY] :: @ station ST.Pancras
+[17:31] Train_NR 13 ::: [READY] :: @ station GrandCentral
+[17:32] Train_NR 126 ::: [FINISHED] :: @ station MilanoCentrale
+[17:33] Train_NR 110 ::: [ARRIVED] :: @ station MilanoCentrale
+[17:33] Train_NR 29 ::: [RUNNING] :: from station Liege-Guillemins
+[17:34] Train_NR 111 :: [Tries to assemble] @ station Shinjuku
+[17:34] Train_NR 79 :: [Tries to assemble] @ station MilanoCentrale
+[17:34] Train_NR 111 ::: [ASSEMBLED] :: @ station Shinjuku
+[17:34] Train_NR 79 ::: [ASSEMBLED] :: @ station MilanoCentrale
+[17:38] Train_NR 46 ::: [RUNNING] :: from station ST.Pancras
+[17:39] Train_NR 62 ::: [READY] :: @ station Dunedin
+[17:41] Train_NR 13 ::: [RUNNING] :: from station GrandCentral
+[17:45] Train_NR 45 ::: [ARRIVED] :: @ station Luz
+[17:46] Train_NR 12 ::: [ARRIVED] :: @ station Luz
+[17:49] Train_NR 78 ::: [ARRIVED] :: @ station Luz
+[17:49] Train_NR 62 ::: [RUNNING] :: from station Dunedin
+[17:53] Train_NR 110 ::: [FINISHED] :: @ station MilanoCentrale
+[17:54] Train_NR 111 ::: [READY] :: @ station Shinjuku
+[17:54] Train_NR 79 ::: [READY] :: @ station MilanoCentrale
+[17:58] Train_NR 95 :: [Tries to assemble] @ station Luz
+[17:58] Train_NR 95 ::: [ASSEMBLED] :: @ station Luz
+[18:00] Train_NR 128 :: [Tries to assemble] @ station Hauptbahnhof
+[18:00] Train_NR 128 ::: [ASSEMBLED] :: @ station Hauptbahnhof
+[18:04] Train_NR 62 ::: [ARRIVED] :: @ station Shinjuku
+[18:04] Train_NR 111 ::: [RUNNING] :: from station Shinjuku
+[18:04] Train_NR 79 ::: [RUNNING] :: from station MilanoCentrale
+[18:05] Train_NR 45 ::: [FINISHED] :: @ station Luz
+[18:06] Train_NR 12 ::: [FINISHED] :: @ station Luz
+[18:09] Train_NR 78 ::: [FINISHED] :: @ station Luz
+[18:18] Train_NR 95 ::: [READY] :: @ station Luz
+[18:20] Train_NR 29 ::: [ARRIVED] :: @ station Shinjuku
+[18:20] Train_NR 128 ::: [READY] :: @ station Hauptbahnhof
+[18:22] Train_NR 47 :: [Tries to assemble] @ station ST.Pancras
+[18:22] Train_NR 47 ::: [ASSEMBLED] :: @ station ST.Pancras
+[18:23] Train_NR 13 ::: [ARRIVED] :: @ station Shinjuku
+[18:24] Train_NR 62 ::: [FINISHED] :: @ station Shinjuku
+[18:24] Train_NR 30 :: [Tries to assemble] @ station Liege-Guillemins
+[18:24] Train_NR 30 ::: [ASSEMBLED] :: @ station Liege-Guillemins
+[18:28] Train_NR 95 ::: [RUNNING] :: from station Luz
+[18:30] Train_NR 128 ::: [RUNNING] :: from station Hauptbahnhof
+[18:31] Train_NR 63 :: [Tries to assemble] @ station Dunedin
+[18:31] Train_NR 63 ::: [ASSEMBLED] :: @ station Dunedin
+[18:40] Train_NR 29 ::: [FINISHED] :: @ station Shinjuku
+[18:42] Train_NR 14 :: [Tries to assemble] @ station GrandCentral
+[18:42] Train_NR 47 ::: [READY] :: @ station ST.Pancras
+[18:42] Train_NR 14 ::: [ASSEMBLED] :: @ station GrandCentral
+[18:43] Train_NR 111 ::: [ARRIVED] :: @ station Luz
+[18:43] Train_NR 13 ::: [FINISHED] :: @ station Shinjuku
+[18:44] Train_NR 79 ::: [ARRIVED] :: @ station Shinjuku
+[18:44] Train_NR 30 ::: [READY] :: @ station Liege-Guillemins
+[18:45] Train_NR 80 :: [Tries to assemble] @ station MilanoCentrale
+[18:45] Train_NR 80 ::: [ASSEMBLED] :: @ station MilanoCentrale
+[18:49] Train_NR 46 ::: [ARRIVED] :: @ station Shinjuku
+[18:51] Train_NR 63 ::: [READY] :: @ station Dunedin
+[18:52] Train_NR 47 ::: [RUNNING] :: from station ST.Pancras
+[18:54] Train_NR 30 ::: [RUNNING] :: from station Liege-Guillemins
+[19:01] Train_NR 63 ::: [RUNNING] :: from station Dunedin
+[19:01] Train_NR 128 ::: [ARRIVED] :: @ station Shinjuku
+[19:01] Train_NR 112 :: [Tries to assemble] @ station Shinjuku
+[19:01] Train_NR 112 ::: [ASSEMBLED] :: @ station Shinjuku
+[19:02] Train_NR 14 ::: [READY] :: @ station GrandCentral
+[19:03] Train_NR 111 ::: [FINISHED] :: @ station Luz
+[19:04] Train_NR 79 ::: [FINISHED] :: @ station Shinjuku
+[19:05] Train_NR 80 ::: [READY] :: @ station MilanoCentrale
+[19:07] Train_NR 95 ::: [ARRIVED] :: @ station Shinjuku
+[19:09] Train_NR 46 ::: [FINISHED] :: @ station Shinjuku
+[19:12] Train_NR 14 ::: [RUNNING] :: from station GrandCentral
+[19:15] Train_NR 80 ::: [RUNNING] :: from station MilanoCentrale
+[19:16] Train_NR 129 :: [Tries to assemble] @ station Hauptbahnhof
+[19:16] Train_NR 129 ::: [ASSEMBLED] :: @ station Hauptbahnhof
+[19:21] Train_NR 128 ::: [FINISHED] :: @ station Shinjuku
+[19:21] Train_NR 112 ::: [READY] :: @ station Shinjuku
+[19:27] Train_NR 95 ::: [FINISHED] :: @ station Shinjuku
+[19:31] Train_NR 112 ::: [RUNNING] :: from station Shinjuku
+[19:31] Train_NR 96 :: [Tries to assemble] @ station Luz
+[19:31] Train_NR 96 ::: [ASSEMBLED] :: @ station Luz
+[19:36] Train_NR 129 ::: [READY] :: @ station Hauptbahnhof
+[19:39] Train_NR 63 ::: [ARRIVED] :: @ station Hauptbahnhof
+[19:40] Train_NR 48 :: [Tries to assemble] @ station ST.Pancras
+[19:40] Train_NR 48 ::: [ASSEMBLED] :: @ station ST.Pancras
+[19:43] Train_NR 64 :: [Tries to assemble] @ station Dunedin
+[19:43] Train_NR 64 ::: [ASSEMBLED] :: @ station Dunedin
+[19:44] Train_NR 30 ::: [ARRIVED] :: @ station Hauptbahnhof
+[19:46] Train_NR 129 ::: [RUNNING] :: from station Hauptbahnhof
+[19:48] Train_NR 31 :: [Tries to assemble] @ station Liege-Guillemins
+[19:48] Train_NR 31 ::: [ASSEMBLED] :: @ station Liege-Guillemins
+[19:51] Train_NR 96 ::: [READY] :: @ station Luz
+[19:59] Train_NR 63 ::: [FINISHED] :: @ station Hauptbahnhof
+[20:00] Train_NR 48 ::: [READY] :: @ station ST.Pancras
+[20:01] Train_NR 96 ::: [RUNNING] :: from station Luz
+[20:03] Train_NR 64 ::: [READY] :: @ station Dunedin
+[20:04] Train_NR 112 ::: [ARRIVED] :: @ station Hauptbahnhof
+[20:04] Train_NR 30 ::: [FINISHED] :: @ station Hauptbahnhof
+[20:06] Train_NR 81 :: [Tries to assemble] @ station MilanoCentrale
+[20:06] Train_NR 81 ::: [INCOMPLETE] @ station MilanoCentrale
+[20:08] Train_NR 31 ::: [READY] :: @ station Liege-Guillemins
+[20:10] Train_NR 48 ::: [RUNNING] :: from station ST.Pancras
+[20:13] Train_NR 64 ::: [RUNNING] :: from station Dunedin
+[20:14] Train_NR 15 :: [Tries to assemble] @ station GrandCentral
+[20:14] Train_NR 15 ::: [ASSEMBLED] :: @ station GrandCentral
+[20:18] Train_NR 31 ::: [RUNNING] :: from station Liege-Guillemins
+[20:20] Train_NR 113 :: [Tries to assemble] @ station Shinjuku
+[20:20] Train_NR 113 ::: [ASSEMBLED] :: @ station Shinjuku
+[20:21] Train_NR 14 ::: [ARRIVED] :: @ station Hauptbahnhof
+[20:24] Train_NR 112 ::: [FINISHED] :: @ station Hauptbahnhof
+[20:27] Train_NR 80 ::: [ARRIVED] :: @ station Hauptbahnhof
+[20:34] Train_NR 15 ::: [READY] :: @ station GrandCentral
+[20:38] Train_NR 96 ::: [ARRIVED] :: @ station Hauptbahnhof
+[20:40] Train_NR 130 :: [Tries to assemble] @ station Hauptbahnhof
+[20:40] Train_NR 113 ::: [READY] :: @ station Shinjuku
+[20:40] Train_NR 130 ::: [ASSEMBLED] :: @ station Hauptbahnhof
+[20:41] Train_NR 14 ::: [FINISHED] :: @ station Hauptbahnhof
+[20:41] Train_NR 47 ::: [ARRIVED] :: @ station Hauptbahnhof
+[20:44] Train_NR 15 ::: [RUNNING] :: from station GrandCentral
+[20:45] Train_NR 97 :: [Tries to assemble] @ station Luz
+[20:45] Train_NR 97 ::: [INCOMPLETE] @ station Luz
+[20:47] Train_NR 80 ::: [FINISHED] :: @ station Hauptbahnhof
+[20:50] Train_NR 113 ::: [RUNNING] :: from station Shinjuku
+[20:53] Train_NR 129 ::: [ARRIVED] :: @ station GrandCentral
+[20:58] Train_NR 96 ::: [FINISHED] :: @ station Hauptbahnhof
+[21:00] Train_NR 130 ::: [READY] :: @ station Hauptbahnhof
+[21:01] Train_NR 47 ::: [FINISHED] :: @ station Hauptbahnhof
+[21:05] Train_NR 65 :: [Tries to assemble] @ station Dunedin
+[21:05] Train_NR 65 ::: [ASSEMBLED] :: @ station Dunedin
+[21:06] Train_NR 64 ::: [ARRIVED] :: @ station GrandCentral
+[21:10] Train_NR 49 :: [Tries to assemble] @ station ST.Pancras
+[21:10] Train_NR 32 :: [Tries to assemble] @ station Liege-Guillemins
+[21:10] Train_NR 32 ::: [INCOMPLETE] @ station Liege-Guillemins
+[21:10] Train_NR 130 ::: [RUNNING] :: from station Hauptbahnhof
+[21:10] Train_NR 49 ::: [ASSEMBLED] :: @ station ST.Pancras
+[21:13] Train_NR 129 ::: [FINISHED] :: @ station GrandCentral
+[21:22] Train_NR 82 :: [Tries to assemble] @ station MilanoCentrale
+[21:22] Train_NR 82 ::: [INCOMPLETE] @ station MilanoCentrale
+[21:25] Train_NR 65 ::: [READY] :: @ station Dunedin
+[21:25] Train_NR 48 ::: [ARRIVED] :: @ station GrandCentral
+[21:26] Train_NR 64 ::: [FINISHED] :: @ station GrandCentral
+[21:30] Train_NR 49 ::: [READY] :: @ station ST.Pancras
+[21:32] Train_NR 114 :: [Tries to assemble] @ station Shinjuku
+[21:32] Train_NR 113 ::: [ARRIVED] :: @ station GrandCentral
+[21:32] Train_NR 114 ::: [ASSEMBLED] :: @ station Shinjuku
+[21:35] Train_NR 65 ::: [RUNNING] :: from station Dunedin
+[21:40] Train_NR 49 ::: [RUNNING] :: from station ST.Pancras
+[21:45] Train_NR 48 ::: [FINISHED] :: @ station GrandCentral
+[21:47] Train_NR 16 :: [Tries to assemble] @ station GrandCentral
+[21:47] Train_NR 16 ::: [ASSEMBLED] :: @ station GrandCentral
+[21:52] Train_NR 114 ::: [READY] :: @ station Shinjuku
+[21:52] Train_NR 31 ::: [ARRIVED] :: @ station GrandCentral
+[21:52] Train_NR 113 ::: [FINISHED] :: @ station GrandCentral
+[22:00] Train_NR 130 ::: [ARRIVED] :: @ station Liege-Guillemins
+[22:02] Train_NR 114 ::: [RUNNING] :: from station Shinjuku
+[22:07] Train_NR 16 ::: [READY] :: @ station GrandCentral
+[22:08] Train_NR 65 ::: [ARRIVED] :: @ station Liege-Guillemins
+[22:09] Train_NR 98 :: [Tries to assemble] @ station Luz
+[22:09] Train_NR 98 ::: [ASSEMBLED] :: @ station Luz
+[22:12] Train_NR 31 ::: [FINISHED] :: @ station GrandCentral
+[22:14] Train_NR 15 ::: [ARRIVED] :: @ station Liege-Guillemins
+[22:17] Train_NR 16 ::: [RUNNING] :: from station GrandCentral
+[22:18] Train_NR 66 :: [Tries to assemble] @ station Dunedin
+[22:18] Train_NR 66 ::: [ASSEMBLED] :: @ station Dunedin
+[22:20] Train_NR 130 ::: [FINISHED] :: @ station Liege-Guillemins
+[22:22] Train_NR 33 :: [Tries to assemble] @ station Liege-Guillemins
+[22:22] Train_NR 33 ::: [ASSEMBLED] :: @ station Liege-Guillemins
+[22:28] Train_NR 65 ::: [FINISHED] :: @ station Liege-Guillemins
+[22:29] Train_NR 98 ::: [READY] :: @ station Luz
+[22:34] Train_NR 15 ::: [FINISHED] :: @ station Liege-Guillemins
+[22:38] Train_NR 66 ::: [READY] :: @ station Dunedin
+[22:39] Train_NR 98 ::: [RUNNING] :: from station Luz
+[22:42] Train_NR 33 ::: [READY] :: @ station Liege-Guillemins
+[22:48] Train_NR 66 ::: [RUNNING] :: from station Dunedin
+[22:51] Train_NR 114 ::: [ARRIVED] :: @ station Liege-Guillemins
+[22:52] Train_NR 33 ::: [RUNNING] :: from station Liege-Guillemins
+[22:53] Train_NR 98 ::: [ARRIVED] :: @ station Liege-Guillemins
+[22:54] Train_NR 49 ::: [ARRIVED] :: @ station Liege-Guillemins
+[23:11] Train_NR 114 ::: [FINISHED] :: @ station Liege-Guillemins
+[23:13] Train_NR 98 ::: [FINISHED] :: @ station Liege-Guillemins
+[23:14] Train_NR 49 ::: [FINISHED] :: @ station Liege-Guillemins
+[23:26] Train_NR 33 ::: [ARRIVED] :: @ station Dunedin
+[23:35] Train_NR 16 ::: [ARRIVED] :: @ station ST.Pancras
+[23:46] Train_NR 33 ::: [FINISHED] :: @ station Dunedin
+[23:52] Train_NR 66 ::: [ARRIVED] :: @ station ST.Pancras
+[23:55] Train_NR 16 ::: [FINISHED] :: @ station ST.Pancras
+[00:12] Train_NR 66 ::: [FINISHED] :: @ station ST.Pancras

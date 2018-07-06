@@ -1,0 +1,69 @@
+KORVALBUM
+14
+Drive My Car|The Beatles|700
+Norwegian Wood|The Beatles|300
+You Won't See Me|The Beatles|202
+Nowhere Man|The Beatles|500
+Think For Yourself|The Beatles|334
+The Word|The Beatles|457
+Michelle|The Beatles|688
+What Goes On|The Beatles|433
+Girl|The Beatles|433
+I'm Looking Through You|The Beatles|323
+In My Life|The Beatles|234
+Wait|The Beatles|321
+If I Needed Someone|The Beatles|231
+Run For Your Life|The Beatles|213
+Abbey Road
+17
+Come Together|The Beatles|260
+Something|The Beatles|183
+Maxwell's Silver Hammer|The Beatles|207
+Oh! Darling|The Beatles|206
+Octopus's Garden|The Beatles|171
+I Want You (She's So Heavy)|The Beatles|467
+Here Comes the Sun|The Beatles|185
+Because|The Beatles|165
+You Never Give Me Your Money|The Beatles|242
+Sun King|The Beatles|146
+Mean Mr. Mustard|The Beatles|66
+Polythene Pam|The Beatles|72
+She Came in Through the Bathroom Window|The Beatles|117
+Golden Slumbers|The Beatles|91
+Carry That Weight|The Beatles|96
+The End|The Beatles|139
+Her Majesty|The Beatles|23
+Sgt. Pepper's Lonely Hearts Club Band
+13
+Sgt. Pepper's Lonely Hearts Club Band|The Beatles|122
+With a Little Help From My Friends|The Beatles|164
+Lucy in the Sky with Diamonds|The Beatles|208
+Getting Better|The Beatles|167
+Fixing a Hole|The Beatles|156
+She's Leaving Home|The Beatles|215
+Being for the Benefit of Mr. Kite!|The Beatles|157
+Within You Without You|The Beatles|305
+When I'm Sixty-Four|The Beatles|157
+Lovely Rita|The Beatles|162
+Good Morning Good Morning|The Beatles|261
+Sgt. Pepper's Lonely Hearts Club Band (reprise)|The Beatles|78
+A Day in the Life|The Beatles|333
+Rubber Soul
+14
+Drive My Car|The Beatles|150
+Norwegian Wood|The Beatles|125
+You Won't See Me|The Beatles|202
+Nowhere Man|The Beatles|164
+Think For Yourself|The Beatles|138
+The Word|The Beatles|161
+Michelle|The Beatles|160
+What Goes On|The Beatles|170
+Girl|The Beatles|153
+I'm Looking Through You|The Beatles|147
+In My Life|The Beatles|148
+Wait|The Beatles|136
+If I Needed Someone|The Beatles|143
+Run For Your Life|The Beatles|138
+SistaAlbumet
+1
+Kapten Filling|Dr Mugg|200
